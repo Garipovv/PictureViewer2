@@ -15,6 +15,7 @@ namespace PictureViewer2
         public Form1()
         {
             InitializeComponent();
+            //изменения тест
         }
 
         private void Form1_Load(object sender, EventArgs e)
