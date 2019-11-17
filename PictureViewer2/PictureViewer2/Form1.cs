@@ -19,6 +19,8 @@ namespace PictureViewer2
 
 
             // внес изменения в ветку оператор
+
+            int a = 2;
         }
 
         private void Form1_Load(object sender, EventArgs e)
